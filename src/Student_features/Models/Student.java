@@ -1,5 +1,5 @@
-package Models;
-
+//package src.Student_features.Models;
+package src.Student_features.Models;
 public class Student extends User{
     private String major;
     private int level;
@@ -7,7 +7,7 @@ public class Student extends User{
     private int CGPA;
 
 //    Default Constructor
-    Student(){
+    public Student(){
         super();
         major="Unkown";
         level=0;
