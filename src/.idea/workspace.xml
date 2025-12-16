@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1b13122-c7de-468d-9ae7-2cdcf673209b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Student-features/Database/DBConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Database/STUDENTS.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Database/USERS.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Models/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Models/.idea/University-System.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Models/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Models/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Models/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Models/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Models/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Models/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Services/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Ui/LogInSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Ui/StudentMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Utils/InputHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student-features/Utils/Validation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Database/COURSES.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Database/ENROLLMENT.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Models/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Models/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Models/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Models/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Models/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Models/Enrollment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Models/Models.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Services/AdminService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Services/InstructorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Utils/InputHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses-features/Utils/Validation.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="36cfnn1H2pwED0wAITVgQhJaBOa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1b13122-c7de-468d-9ae7-2cdcf673209b" name="Changes" comment="" />
+      <created>1765310951400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765310951400</updated>
+    </task>
+    <servers />
+  </component>
+</project>

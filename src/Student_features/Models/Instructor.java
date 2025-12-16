@@ -1,4 +1,5 @@
-package Models;
+//package Models;
+package src.Student_features.Models;
 import java.util.ArrayList;
 
 public class Instructor extends User{
