@@ -1,4 +1,4 @@
-package Models;
+package src.Student_features.Models;
 
 public class User {
     private String username;
@@ -8,7 +8,7 @@ public class User {
     private String role;
 
 //    Default Constructor
-    User(){
+   public  User(){
         username="Unkown";
         password = "";
         email = "unknown@example.com";

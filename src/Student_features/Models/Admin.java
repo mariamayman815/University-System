@@ -1,5 +1,7 @@
-package Models;
+//package Models;
+package src.Student_features.Models;
 import java.util.ArrayList;
+//import java.lang;
 
 public class Admin extends User{
     private ArrayList<String> permissions;
