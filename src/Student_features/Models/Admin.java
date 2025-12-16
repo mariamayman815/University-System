@@ -4,22 +4,19 @@ import java.util.ArrayList;
 //import java.lang;
 
 public class Admin extends User{
-    private ArrayList<String> permissions;
 //    Default Constructor
     public Admin(){
         super();
-        permissions = new ArrayList<>();
+        this.role = "Admin";
     }
-//    Parameterized constructor
-    public Admin(ArrayList<String> permissions) {
-        this.permissions = permissions;
+    public Admin(String username, String password, String role, String email, int id) {
+        super(username, password, role, email, id);
     }
-//    Setters & Getters
-    public ArrayList<String> getPermissions() {
-        return permissions;
+    public boolean isequal(String username , String password){
+        if(this.username.equals(username) && this.password.equals(password))
+            return true;
+        else
+            return false;
     }
 
-    public void setPermissions(ArrayList<String> permissions) {
-        this.permissions = permissions;
-    }
 }
