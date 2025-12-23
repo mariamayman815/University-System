@@ -9,6 +9,7 @@ public class Instructor extends User{
 //    Default constructor
     public Instructor() {
         super();
+        this.role="Instructor";
         coursesTaught = new ArrayList<>();
         officeNumber = 0;
     }

@@ -1,18 +1,17 @@
 package src.Student_features.Models;
 
 public class User {
-    private String username;
-    private String password;
-    private String email;
-    private int id;
-    private String role;
+    protected String username;
+    protected String email;
+    protected String password;
+    protected int id;
+    protected String role;
 
 //    Default Constructor
    public  User(){
         username="Unkown";
         password = "";
         email = "unknown@example.com";
-        role = "user";
         id=0;
     }
 //    Parametarized Constructor

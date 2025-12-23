@@ -9,6 +9,7 @@ public class Student extends User{
 //    Default Constructor
     public Student(){
         super();
+        this.role = "Student";
         major="Unkown";
         level=0;
         GPA=0;
