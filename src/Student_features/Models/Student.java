@@ -3,8 +3,8 @@ package src.Student_features.Models;
 public class Student extends User{
     private String major;
     private int level;
-    private int GPA;
-    private int CGPA;
+    private double GPA;
+    private double CGPA;
 
 //    Default Constructor
     public Student(){
@@ -34,7 +34,7 @@ public class Student extends User{
         this.major = major;
     }
 
-    public int getGPA() {
+    public double getGPA() {
         return GPA;
     }
 
@@ -50,7 +50,7 @@ public class Student extends User{
         this.level = level;
     }
 
-    public int getCGPA() {
+    public double getCGPA() {
         return CGPA;
     }
 

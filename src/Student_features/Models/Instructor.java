@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Instructor extends User{
     private int officeNumber;
     private ArrayList<String> coursesTaught;
+    public static int idInstructor=0;
 
 //    Default constructor
     public Instructor() {
@@ -18,6 +19,7 @@ public class Instructor extends User{
         super(user);
         this.officeNumber=officeNumber;
         this.coursesTaught=coursesTaught;
+        idInstructor++;
     }
 //    Setters & Getters
     public int getOfficeNumber() {
