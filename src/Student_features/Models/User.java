@@ -4,7 +4,6 @@ public class User {
     protected String username;
     protected String email;
     protected String password;
-    protected int id;
     protected String role;
 
 //    Default Constructor
@@ -12,21 +11,18 @@ public class User {
         username="Unkown";
         password = "";
         email = "unknown@example.com";
-        id=0;
     }
 //    Parametarized Constructor
-    User(String username,String password,String role,String email,int id){
+    User(String username,String password,String role,String email){
         this.username=username;
         this.password=password;
         this.role=role;
-        this.id=id;
     }
 //    Copy Constructor
     User(User u){
         this.username=u.username;
         this.password=u.password;
         this.email=u.email;
-        this.id=u.id;
         this.role=u.role;
     }
 
@@ -45,14 +41,6 @@ public class User {
 
     public void setPassword(String password) {
         this.password = password;
-    }
-
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
     }
 
     public String getRole() {
