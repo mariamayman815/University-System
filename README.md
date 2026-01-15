@@ -13,34 +13,34 @@ Database Design Steps:
    Enroll students in courses
    Store and view grades
 
-2.Identify Entities
+2.Identify Entities</br>
     Identify the main entities in the system
     Each entity represents a database table
     
-3.Define Attributes for Each Entity
+3.Define Attributes for Each Entity</br>
     Define table columns (attributes)
     Identify:
          Primary Keys (PK)
          Foreign Keys (FK)
-4.Define Relationships Between Entities
-
-5.Draw ER Diagram
-6.Convert ER Diagram to Tables (Logical Design)
-7.Normalize the Database
+4.Define Relationships Between Entities</br>
+5.Draw ER Diagram</br>
+6.Convert ER Diagram to Tables (Logical Design)</br>
+7.Normalize the Database</br>
    Ensure:
    No data redundancy
    Each table has a primary key
    Attributes depend only on the primary key
    
-8.Review Database Design
-  Review tables and relationships
-  Validate design consistency
+8.Review Database Design</br>
+  Review tables and relationships</br>
+  Validate design consistency</br>
   Ensure the design can be easily mapped to OOP classes
 
 ------------------------------
 Note:
 Each database table will later be converted into a Java class
 &nbsp;
+
 
 
 
