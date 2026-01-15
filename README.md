@@ -5,7 +5,7 @@
 
 Database Design Steps:
 
-1.Define System Requirements
+1.Define System Requirements</br>
    Identify system users (Students, Instructors, Admin)
    Define main functionalities:
    Register students
@@ -41,6 +41,7 @@ Database Design Steps:
 Note:
 Each database table will later be converted into a Java class
 &nbsp;
+
 
 
 
